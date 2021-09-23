@@ -10,4 +10,4 @@
 
 ## Scripting
 
-* [ProcrastinatorProgrammer](Scripting/.ProcrastinatorProgrammer.md)
+* [ProcrastinatorProgrammer](Scripting/ProcrastinatorProgrammer.md)
