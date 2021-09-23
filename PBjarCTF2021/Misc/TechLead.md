@@ -14,6 +14,7 @@
 
 访问[https://etherscan.io/address/0x5922b0bbae5182f2b70609f5dfd08f7da561f5a4](https://etherscan.io/address/0x5922b0bbae5182f2b70609f5dfd08f7da561f5a4#analytics),点击`analytics`
 
-![TechLead-2](TechLead-2.png)
+![TechLead-2](assets/TechLead-2.png)
 
 **flag:**`flag{1.4625790953780384}`
+
