@@ -1,12 +1,8 @@
 # TsukuCTF2021 Writeup
 
-### Crypto
+## Crypto
 
 * [CrackSSH!](./Crypto/CrackSSH!.md)
-
-## Misc
-
-- [Customization](./Misc/Customization.md)
 
 ## Web
 
