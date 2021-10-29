@@ -32,7 +32,7 @@ plaintext.map((x, i) => {
 
 打开`a.html`,发现本应该显示`flag`的地方有一个灰色的框.
 
-编辑`a.html`,将 `<code id="flag"></code>`这一行代码移动至`<pre>标签外面,即可看到`flag`.
+编辑`a.html`,将 `<code id="flag"></code>`这一行代码移动至`<pre>`标签外面,即可看到`flag`.
 
 
 ![pay2win](images/pay2win.jpg)
