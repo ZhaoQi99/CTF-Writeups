@@ -27,9 +27,6 @@
 ## Traffic Analysis
 
 * [Monstrum ex Machine](Traffic_Analysis/Monstrum_ex_Machine.md)
-
 * [The SUM of All FEARS](Traffic_Analysis/The_SUM_of_All_FEARS.md)
-
 * [Release the Crackin'!](Traffic_Analysis/Release_the_Crackin.md)
-
 * [A Warning](Traffic_Analysis/A_Warning.md)
