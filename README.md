@@ -15,6 +15,5 @@ CTF Writeups for fun!😋
 ## 2021.10
 - [DEADFACECTF](./DEADFACECTF)
 - [BuckeyeCTF2021](./BuckeyeCTF2021)
-
-
 - [KillerQueenCTF2021](./KillerQueenCTF2021)
+
