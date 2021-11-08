@@ -10,8 +10,11 @@ CTF Writeups for fun!😋
 - [SunshineCTF2021](./SunshineCTF2021)
 - [PBjarCTF2021](./PBjarCTF2021)
 - [DownUnderCTF2021](./DownUnderCTF2021)
+- [TamilCTF2021](./TamilCTF2021)
 
 ## 2021.10
 - [DEADFACECTF](./DEADFACECTF)
 - [BuckeyeCTF2021](./BuckeyeCTF2021)
 
+
+- [KillerQueenCTF2021](./KillerQueenCTF2021)
