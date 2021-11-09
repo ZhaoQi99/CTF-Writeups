@@ -16,7 +16,7 @@
 
 找到该请求对应响应的数据包(16050),对着"JPEG File Interchange Format"右键,选择"显示分组字节",即可看到flag
 
-![image-20211106204519981](/Users/zhaoqi219/Code/ZhaoQi99.github.io/source/CTF/DEADFACECTF/Traffic_Analysis/images/A-Warning-02.png)
+![image-20211106204519981](images/A-Warning-02.png)
 
 ![image-20211106205413070](images/A-Warning-03.png)
 
