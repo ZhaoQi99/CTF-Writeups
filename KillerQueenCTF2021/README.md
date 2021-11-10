@@ -1,7 +1,5 @@
 # KillerQueenCTF2021 Writeup
 
-## Misc
-
 ## Crypto
 
 * [Cloudsourcing](Crypto/Cloudsourcing.md)
