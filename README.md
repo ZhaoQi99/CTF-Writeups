@@ -17,3 +17,5 @@ CTF Writeups for fun!😋
 - [BuckeyeCTF2021](./BuckeyeCTF2021)
 - [KillerQueenCTF2021](./KillerQueenCTF2021)
 
+- [K3RN3LCTF2021](./K3RN3LCTF2021)
+- [L3HCTF2021-个人能力认证](./L3HCTF2021-个人能力认证)
