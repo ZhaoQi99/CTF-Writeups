@@ -28,6 +28,7 @@ return render_template_string(template)
 {{''.__class__.__bases__[0].__subclasses__()}}
 ```
 <img src="images/1.jpg" alt="image-20211114182131940" style="zoom:50%;" />
+
 人肉计数/写个脚本,找到`os._wrap_close`模块所在的索引,借助于`popen`函数可以直接执行系统命令
 
 ```python
