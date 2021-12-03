@@ -1,0 +1,15 @@
+# TFCCTF2021 Writeup
+
+## Misc
+
+* [DISCORD SHENANIGANS](Misc/DISCORD_SHENANIGANS.md)
+* [PRETTY GOOD PHISHER](Misc/PRETTY_GOOD_PHISHER.md)
+
+## Forensics
+
+* [AAAAA](Forensics/AAAAA.md)
+
+## Crypto
+
+* [SEA LANGUAGE 1](Crypto/SEA_LANGUAGE_1.md)
+* [SEA LANGUAGE 2](Crypto/SEA_LANGUAGE_2.md)
