@@ -1,0 +1,13 @@
+# GoogleCTF2023 Writeup
+
+## Misc
+
+* [NPC](Misc/NPC.md)
+
+## Crypto
+
+* [LEAST COMMON GENOMINATOR?](Crypto/LEAST_COMMON_GENOMINATOR.md)
+
+## Web
+
+* [UNDER-CONSTRUCTION](Web/UNDER_CONSTRUCTION.md)
