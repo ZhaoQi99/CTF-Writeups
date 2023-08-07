@@ -6,6 +6,9 @@
 
 ---
 
+<details>
+<summary>treebox.py</summary>
+
 ```python
 #!/usr/bin/python3 -u
 #
@@ -45,6 +48,7 @@ if verify_secure(tree):  # Safe to execute!
   compiled = compile(source_code, "input.py", 'exec')
   exec(compiled)
 ```
+</details>
 
 阅读源码,可以发现:
 
